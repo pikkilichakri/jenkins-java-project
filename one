@@ -1,1 +1,3 @@
 updated code to git
+
+git pull = git fetch + git merge
